@@ -1,0 +1,33 @@
+.section {
+  border: 1px solid rgb(0 0 0 / 25%);
+  margin-bottom: 30px;
+  padding: 15px;
+}
+
+.mb-2 {
+  margin-bottom: 16px;
+}
+
+.mr-2 {
+  margin-right: 16px;
+}
+
+.w-half {
+  width: 50%;
+}
+
+.inline-block {
+  display: inline-block;
+}
+
+.text-monospace {
+  font-family: monospace;
+}
+
+.break-word {
+  word-wrap: break-word;
+}
+
+.italic {
+  font-style: italic;
+}
